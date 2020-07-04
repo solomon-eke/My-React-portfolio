@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "",
+    "deployed": "",
+    "repo": "",
+    "image": "",
+    "description": "",
+    "techs": []
+  },
+  {
+    "id": 2,
+    "title": "",
+    "deployed": "",
+    "repo": "",
+    "image": "",
+    "description": "",
+    "techs": ["Express.js", "Handlebars.js", "MySQL", "Node.js", "Socket.io"]
+  },
+  {
+    "id": 3,
+    "title": "",
+    "deployed": "",
+    "repo": "",
+    "image": "tracker.png",
+    "description": "",
+    "techs": ["Node.js", "Inquirer.js", "MySQL"]
+  }
+]
