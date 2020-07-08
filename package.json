@@ -1,7 +1,7 @@
 {
   "name": "mern",
   "version": "1.0.0",
-  "homepage": "solomon-eke.github.io/My-React-portfolio/",
+  "homepage": "https://solomon-eke.github.io/My-React-portfolio/",
   "description": "Mern Demo",
   "main": "server.js",
   "scripts": {
